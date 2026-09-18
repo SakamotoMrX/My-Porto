@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <!DOCTYPE html> <h1><node class="js"></node></h1>
+    <h1>I LOVE LINUX</h1>
+    <br>
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/000/354/linuxman.jpg" alt="">
 </body>
 </html>
